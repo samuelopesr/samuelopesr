@@ -11,7 +11,7 @@
     </a>
   </div>
   <div>
-    <p><img height=335 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelopesr&theme=radical" alt="samuelopesr" /></p>
+    <p><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelopesr&theme=radical" alt="samuelopesr" /></p>
   </div>
 </div>
 
