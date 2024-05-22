@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center"> Hi 👋, I'm Samuel Lopes</h1>
+<h3 align="center">A passionate developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelopesr&label=Profile%20views&color=0e75b6&style=flat" alt="samuelopesr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuelopesr" alt="samuelopesr" /></a> </p>
+
+<div align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=samuelopesr&label=Profile%20views&color=0e75b6&style=flat" alt="samuelopesr" /> 
+</div>
+
+<div align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuelopesr" alt="samuelopesr" />
+  </a> 
+</div>
 
 - 🌱 I’m currently learning **Angular, Backend, Devops**
 
