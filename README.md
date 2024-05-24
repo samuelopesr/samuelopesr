@@ -18,10 +18,10 @@
 <div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://discord.gg/8w4p6EKT">
+<a target="_blank" href="https://discord.gg/8w4p6EKT">
   <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="_samuellopes"/>
 </a>
-<a align="center" href="www.linkedin.com/in/samuel-lopes-00a4a8213" target="blank">
+<a target="_blank" align="center" href="www.linkedin.com/in/samuel-lopes-00a4a8213" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel lopes" height="30" width="40" />
 </a>
 </p>
